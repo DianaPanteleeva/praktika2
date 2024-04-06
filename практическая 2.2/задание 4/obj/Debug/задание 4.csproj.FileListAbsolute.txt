@@ -1,0 +1,12 @@
+C:\Users\gr624_padpa\Desktop\практика 2\задание 4\bin\Debug\задание_4.exe
+C:\Users\gr624_padpa\Desktop\практика 2\задание 4\bin\Debug\задание_4.pdb
+C:\Users\gr624_padpa\Desktop\практика 2\задание 4\obj\Debug\задание 4.csproj.AssemblyReference.cache
+C:\Users\gr624_padpa\Desktop\практика 2\задание 4\obj\Debug\задание 4.csproj.CoreCompileInputs.cache
+C:\Users\gr624_padpa\Desktop\практика 2\задание 4\obj\Debug\задание_4.exe
+C:\Users\gr624_padpa\Desktop\практика 2\задание 4\obj\Debug\задание_4.pdb
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\задание 4\bin\Debug\задание_4.exe
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\задание 4\bin\Debug\задание_4.pdb
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\задание 4\obj\Debug\задание 4.csproj.AssemblyReference.cache
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\задание 4\obj\Debug\задание 4.csproj.CoreCompileInputs.cache
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\задание 4\obj\Debug\задание_4.exe
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\задание 4\obj\Debug\задание_4.pdb

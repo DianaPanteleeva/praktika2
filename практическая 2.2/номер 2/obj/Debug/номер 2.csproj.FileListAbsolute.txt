@@ -1,0 +1,12 @@
+C:\Users\gr624_padpa\Desktop\практика 2\номер 2\obj\Debug\номер 2.csproj.CoreCompileInputs.cache
+C:\Users\gr624_padpa\Desktop\практика 2\номер 2\obj\Debug\номер 2.csproj.AssemblyReference.cache
+C:\Users\gr624_padpa\Desktop\практика 2\номер 2\bin\Debug\номер_2.exe
+C:\Users\gr624_padpa\Desktop\практика 2\номер 2\bin\Debug\номер_2.pdb
+C:\Users\gr624_padpa\Desktop\практика 2\номер 2\obj\Debug\номер_2.exe
+C:\Users\gr624_padpa\Desktop\практика 2\номер 2\obj\Debug\номер_2.pdb
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\номер 2\bin\Debug\номер_2.exe
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\номер 2\bin\Debug\номер_2.pdb
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\номер 2\obj\Debug\номер 2.csproj.AssemblyReference.cache
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\номер 2\obj\Debug\номер 2.csproj.CoreCompileInputs.cache
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\номер 2\obj\Debug\номер_2.exe
+C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.2\номер 2\obj\Debug\номер_2.pdb
