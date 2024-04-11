@@ -1,6 +1,0 @@
-C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.4\задание 1\задание 1\bin\Debug\задание_1.exe
-C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.4\задание 1\задание 1\bin\Debug\задание_1.pdb
-C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.4\задание 1\задание 1\obj\Debug\задание 1.csproj.AssemblyReference.cache
-C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.4\задание 1\задание 1\obj\Debug\задание 1.csproj.CoreCompileInputs.cache
-C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.4\задание 1\задание 1\obj\Debug\задание_1.exe
-C:\Users\gr624_padpa\Desktop\практика 2\практическая 2.4\задание 1\задание 1\obj\Debug\задание_1.pdb
